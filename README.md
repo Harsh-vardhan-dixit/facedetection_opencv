@@ -1,5 +1,5 @@
 # facedetection_opencv
-I am willing to detect and recognise of face of persons in groups
+we are aiming to detect and recognise of face of persons in groups
 currently this project in development phase
 <h1> developers working on it are </h1>
 <ol>
